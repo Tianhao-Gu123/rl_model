@@ -12,5 +12,4 @@ _results
 *.wpr
 *.cprof
 *.egg-info/
-train_dir/
 wandb/
